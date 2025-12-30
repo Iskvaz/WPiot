@@ -376,5 +376,4 @@ Para suporte, abra uma issue no repositório do projeto.
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade ESP32**
 #
