@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For WhatsAppESP32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WhatsAppESP32	KEYWORD1
+WhatsAppMessage	KEYWORD1
+ListSection	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setPollInterval	KEYWORD2
+isConnected	KEYWORD2
+getPhoneNumber	KEYWORD2
+getQueueSize	KEYWORD2
+getMessages	KEYWORD2
+sendText	KEYWORD2
+sendTextToGroup	KEYWORD2
+sendButtons	KEYWORD2
+sendList	KEYWORD2
+sendLocation	KEYWORD2
+loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEFAULT_POLL_INTERVAL	LITERAL1
+MAX_MESSAGES	LITERAL1
+HTTP_TIMEOUT	LITERAL1
+WHATSAPP_ESP32_VERSION	LITERAL1
